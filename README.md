@@ -1,0 +1,1 @@
+# Normalised-Otsu-s-Segmentation-Algorithm-for-Melanoma-Diagnosis
